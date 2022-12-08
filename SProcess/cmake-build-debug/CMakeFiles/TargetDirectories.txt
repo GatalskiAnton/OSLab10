@@ -1,0 +1,3 @@
+/home/antoshka/CLionProjects/OSLab10/SProcess/cmake-build-debug/CMakeFiles/SProcess.dir
+/home/antoshka/CLionProjects/OSLab10/SProcess/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/antoshka/CLionProjects/OSLab10/SProcess/cmake-build-debug/CMakeFiles/rebuild_cache.dir
